@@ -1,0 +1,14 @@
+{
+  "artifacts": [
+    {
+      "artifactPath": "test.json",
+      "name": "NLG Template",
+      "artifactType": "json"
+    },
+    {
+      "artifactPath": "greeting.html",
+      "name": "Greeting",
+      "artifactType": "text"
+    }
+  ]
+}
