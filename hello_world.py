@@ -11,6 +11,7 @@ def get_greeting():
     greeting = client.config.get_artifact('greeting.html')
     return greeting
 
+
 if __name__ == '__main__':
     x = get_greeting()
     print(x)
